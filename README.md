@@ -1,1 +1,3 @@
 # NaiveBayesClassifier
+
+"I developed a Naive Bayes classifier for sentiment analysis using customer reviews. By leveraging Bayes' theorem, the classifier predicts the sentiment of new, unseen reviews as positive or negative. I preprocessed the dataset by tokenizing, removing punctuation, and eliminating stopwords. Then, I calculated class-conditional probabilities for each word in positive and negative reviews. The classifier applies the naive assumption of word independence to calculate the probability of a review being positive or negative. I evaluated the classifier using accuracy, precision, recall, and F1 score. The Naive Bayes classifier proved effective in accurately predicting sentiments in customer reviews."
